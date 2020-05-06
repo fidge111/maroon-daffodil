@@ -1,6 +1,7 @@
 ---
 actions:
 - label: Test
+  url: www.google.com
 - label: Sign Up
   url: "/generic"
 - label: Log In
